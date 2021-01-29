@@ -1,1 +1,1 @@
-# ar-based-copy-paste
+# OCR TEXT RECOGNITION
